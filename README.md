@@ -1,7 +1,5 @@
 # Pixel Art Maker Project
 
-
-
 Run app @ https://ranjans79.github.io/udacity-pixel-art-maker/
 
 ## Table of Contents
