@@ -1,5 +1,3 @@
-# Pixel Art Maker Project
-
 ![PixelColors](https://github.com/ranjans79/udacity-pixel-art-maker/blob/master/pam_colors.png)
 
 Run app @ https://ranjans79.github.io/udacity-pixel-art-maker/
