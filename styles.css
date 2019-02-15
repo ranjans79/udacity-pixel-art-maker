@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'VT323', monospace;
+    font-size: 100px;
+    margin: 0.2em;
+    color:#000000;
+}
+
+h2 {
+    font-family: 'Arial';
+    text-transform: uppercase;
+    font-size: 1em;
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+
+span {
+    color: #0066ff;
+}
+
+#sizePicker{
+    font-family: 'Arial';
+    font-size: 0.8em;
+}
